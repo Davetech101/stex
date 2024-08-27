@@ -1,5 +1,5 @@
 import Header from "../_components/Header";
-import COntactHero from "../_components/COntactHero";
+import COntactHero from "../_components/ContactHero";
 import Footer from "../_components/Footer";
 
 const page = () => {
